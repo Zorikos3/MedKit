@@ -1,0 +1,1 @@
+These scripts are for the FlipperZero, make sure to upload them using QFlipper on your PC! 📡
