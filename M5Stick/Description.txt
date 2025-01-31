@@ -1,0 +1,1 @@
+These are scripts for the M5Stick, make sure to use Bruce WebUI to upload them to your M5Stick! 🎚️
